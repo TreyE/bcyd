@@ -17,7 +17,6 @@
 	<!--[if lt IE 7.]>
 	<script defer="defer" type="text/javascript" src="http://bcyd.org/scripts/pngfix.js"></script>
 	<![endif]-->
-
   </head>
 
   <body onload="load()" onunload="GUnload()"><table cellpadding=0 cellspacing=0 border=0 height=100% width=100%><tr><td align=center height=100%>
