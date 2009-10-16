@@ -8,14 +8,6 @@ It was recently ruled that Maryland residents who will turn 18 before the Novemb
 <b>NOTE:</b> This is a project being done in a nonpartisan way by a bipartisan group of volunteers.  This registration effort is not done in support of any party or candidate.<br>
 
 <br><br>Please volunteer for this effort by <!-- filling out the information below or --> by e-mailing BCYD President <a href="mailto:evanhershman@gmail.com">Evan Hershman</a>
-
-  <div style="margin-left: 20px; font-size:14px; line-height: 20px;">
-    Your Name: <input><br>
-    E-mail address and/or phone number: <input><br>
-    High schools where you can staff a booth during lunch on a weekday: 
-
-
-  </div>
 </div>
 
 <? include("../bottom.php") ?>
