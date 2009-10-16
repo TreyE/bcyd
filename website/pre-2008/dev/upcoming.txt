@@ -1,0 +1,3 @@
+<div class="otherleft"><a class="inside" href="jobs.php">Need a job?  Check out these.</a></div>
+<div class="otherleft"><span style="color:#fff;">Just added pictures from O'Malley's fundraiser for John Kerry<a class="inside" href="photo_galleries/index.html">See pictures from our events.</a></span></div>
+<div class="otherleft"><a class="inside" href="quotes.php">The local representatives are excited about us.</a></div>

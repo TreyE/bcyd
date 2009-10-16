@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="{LANG_DIR}">
+<head>
+<title>{TITLE}</title>
+<meta http-equiv="Content-Type" content="text/html; charset={CHARSET}" />
+<meta http-equiv="Pragma" content="no-cache" />
+{META}
+<link rel="stylesheet" href="themes/classic/style.css" />
+<script type="text/javascript" src="scripts.js"></script>
+<!--
+$Id: template.html,v 1.1 2004/06/11 09:20:08 tarique Exp $
+-->
+</head>
+<body style="background-color: rgb(255, 255, 238);">
+<center>
+      <table style="text-align: left; width: 750px;" border="0"
+ cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td style="vertical-align: top;"><img
+ style="width: 750px; height: 100px;"
+ alt="Baltimore County Young Democrats"
+ src="../img/new_banner_bcyd.jpg"><br>
+            </td>
+          </tr>
+          <tr>
+            <td
+ style="vertical-align: top; border-bottom: solid rgb(255, 255, 238); background-color: rgb(237, 202, 9);">
+            <center> <a class="navbar" href="../index.php">Home</a> <a
+ class="navbar" href="../about.php">About</a> <a class="navbar"
+ href="../supporters.php">Supporters</a> <a class="navbar" href="../join.php">Join</a>
+            <a class="navbar" href="../news.php">News</a> <a
+ class="navbar" href="/">Pictures</a> <a class="navbar"
+ href="../calendar.php">Calendar</a> <a class="navbar" href="../links.php">Links</a>
+            <a class="navbar" href="../contact.php">Contact</a> </center>
+            </td>
+          </tr>
+	</tbody>
+      </table>
+
+                <table width="750" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                  <td align="center" valign="top">{LANGUAGE_SELECT_FLAGS}</td></tr>
+                 <tr> <td align="center" valign="top">{LANGUAGE_SELECT_LIST}
+                  {THEME_SELECT_LIST}</td>
+                  </tr>
+                </table>
+                <img src="images/spacer.gif" width="1" height="15" /><br />
+                <table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                                <td align="center" valign="top">
+					{MAIN_MENU}
+                                        {ADMIN_MENU}
+                                        {GALLERY}
+                        </tr>
+                                </td>
+                        </tr>
+       
+
+                </table>
+                </td>
+        </tr>
+</table>
+</center>
+</body>
+</html>

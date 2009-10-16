@@ -1,0 +1,9 @@
+To: tmetcalfe@gmail.com               
+Subject: BCYD join form
+                                  
+Name            [name]
+email		[email]
+phone		[phone]
+street		[street]
+city		[city]
+zip		[zip]
