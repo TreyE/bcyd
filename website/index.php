@@ -9,7 +9,7 @@
 
     <tr><td>Name: </td><td><input name="name" type="text" id="name" value="" size="25"></td></tr>
     <tr><td>E-mail: </td><td><input name="email" type="text" id="email" value="" size="25"></td></tr>
-    <tr><td colspan=2 align=center><br>
+    <tr><td colspan=2 align=center><br/>
       <span style="display:none">
         <input name="funcml" type="radio" value="add" checked style="font-color:#fff; font-size: 12px;">
         <input name="funcml" type="radio" value="unsub2" style="color:#fff; font-size: 12px;">
@@ -40,8 +40,8 @@
   }
 </script>
   You can subscribe to the <a href="javascript:ShowSubscribe();">mailing list</a>, join our <a href="http://www.facebook.com/group.php?gid=5394043270">Facebook group</a>, contact the <a href="Governance.php">BCYD officers</a>, and come to events:
-  <br><br>
-  <iframe src="//www.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vtuebr6okcnap6ojbi30kehja4%40group.calendar.google.com&amp;color=%237A367A&amp;ctz=America%2FNew_York" style=" border-width:0 " width="760" height="300" frameborder="0" scrolling="no"></iframe>
+  <br/><br/>
+  <iframe src="//www.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vtuebr6okcnap6ojbi30kehja4%40group.calendar.google.com&amp;color=%237A367A&amp;ctz=America%2FNew_York" style="border-width:0 " width="760" height="300" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <? include("bottom.php") ?>

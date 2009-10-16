@@ -80,7 +80,7 @@
           if (!point) {
             alert(address + " not found");
           } else {
-            var marker = createMarker(point,'<b><u>'+address+'</u></b><br>'+what);
+            var marker = createMarker(point,'<b><u>'+address+'</u></b><br/>'+what);
 //            var marker = new GMarker(point);
 //            map.addOverlay(marker);
             map.addOverlay(marker);
@@ -102,7 +102,7 @@
       ShowEvent(map,"300 Lennox Ave, Towson MD","2008-01-10 BCYD Election");
       ShowEvent(map,"8141 Honeygo Blvd, White Marsh, MD","2008-01-13 Charlie Wilson's War");
       ShowEvent(map,"106 Bloomsbury Ave, Catonsville, MD","2008-01-14 Certification to Register Voters");
-      ShowEvent(map,"2027 Jolly Rd, Baltimore, MD","2008-02-04 Super Tuesday Watch Party<br>2008-01-22 BCYD Executive Board Meeting");
+      ShowEvent(map,"2027 Jolly Rd, Baltimore, MD","2008-02-04 Super Tuesday Watch Party<br/>2008-01-22 BCYD Executive Board Meeting");
       ShowEvent(map,"318 Limestone Valley Dr, Cockeysville, MD","2008-02-17 All the President's Men");
       ShowEvent(map,"55 Wade Ave, Catonsville MD","2008-01-26 Volunteering at Homeless Shelter");
       ShowEvent(map,"63 E Padonia Rd, Timonium, MD 21093","2008-02-12 Maryland Primary Closure HH");
