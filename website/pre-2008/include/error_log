@@ -1,2 +1,0 @@
-[07-Dec-2006 14:51:00] PHP Warning:  file(include/upcoming/upcoming.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/bcydorg/public_html/include/upcoming.php on line 3
-[07-Dec-2006 14:51:00] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Bad arguments. in /home/bcydorg/public_html/include/upcoming.php on line 3

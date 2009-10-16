@@ -1,4 +1,0 @@
-General Meeting
-<p>
-Our next meeting will be on Wednesday, February 8, 2006 at 7:30 at the Arbutus Volunteer Fire Station. Our speakers are scheduled to be Mishonda Baldwin, Candidate for the House of Representatives from the 3rd Congressional District, and Mr. Ron Burdynski, candidate for the Orphans Court. Please be sure to bring a canned good, as the Democratic Service Coalition has asked us to do a canned food drive before the winter is over. We will be doing our canned food drive at this meeting. In addition, we will also be collecting underwear for the ongoing Boxers, Bikinis, and Briefs drive. Thank you for your support. 
-</p>
