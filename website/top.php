@@ -12,7 +12,7 @@
       behavior:url(#default#VML);
     }
     </style>
-    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://bcyd.org/css/main.css" />
     <script type="text/javascript">
     //<![CDATA[
 
@@ -77,7 +77,7 @@
 
   <body onload="load()" onunload="GUnload()"><table cellpadding=0 cellspacing=0 border=0 height=100% width=100%><tr><td align=center height=100%>
     <div id="MainColumn">
-      <img src="bcyd.png" width=120 style="padding-left: 10px; position: absolute">
+      <img src="http://bcyd.org/images/bcyd.png" width=120 style="padding-left: 10px; position: absolute">
       <div id="Header">
         Baltimore County Young Democrats
       </div>
