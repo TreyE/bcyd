@@ -11,7 +11,7 @@
 	<dd>Parliamentarian: <a href="mailto:lewis.r.evans@gmail.com">Trey Evans</a></dd>
 	<dd>Political Director: <a href="mailto:rbrooks@bcyd.org">Rob Brooks</a></dd>
 	<dd>Programs Director: <a href="mailto:aximill4@hotmail.com">Dan Ewald</a></dd>
-    <dd>Communications Director: <a href="mailto:bigjons831@aol.com">Jon Saltzman</a></dd>
+    <dd>Communications Director: <a href="mailto:andrewjcarton@yahoo.com">Andy Carton</a></dd>
   </dl>
   Appointed Positions:
   <dl>
