@@ -1,0 +1,57 @@
+      a {
+        color: blue;
+      }
+      body {
+        height: 100%;
+        margin: 0px;
+        background: #dedede;
+        font-family: Arial, Helvetica;
+      }
+      #MainColumn {
+        width: 800px;
+        height: 100%;
+        border-left: 3px black solid;
+        border-right: 3px black solid;
+        background: white;
+        text-align: left;
+      }
+      #Header {
+        background: #FDD017;
+        font-size: 40px;
+        padding: 10px;
+        padding-left: 15px;
+        padding-left: 115px;
+        text-align: left;
+      }
+      #MenuRow {
+        background: black;
+        text-align: left;
+        padding-left: 130px;
+      }
+      #MenuRow td {
+        cursor: hand;
+        color: #FDD017;
+        padding: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+      #TitleRow {
+        text-align: left;
+        padding: 10px;
+        padding-left: 130px;
+        font-size: 30px;
+      }
+      #Content {
+        text-align: left;
+        padding: 10px;
+      }
+      #Subscribe {
+        background: #deffde;
+        position: absolute;
+        margin-left: 200px;
+        width: 400px;
+        padding: 20px;
+        padding-top: 0px;
+        text-align: center;
+        border: 3px solid #007800;
+      }
