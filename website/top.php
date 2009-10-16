@@ -70,7 +70,7 @@
 
     </script>
 	<!--[if lt IE 7.]>
-	<script defer type="text/javascript" src="pngfix.js"></script>
+	<script defer type="text/javascript" src="http://bcyd.org/scripts/pngfix.js"></script>
 	<![endif]-->
 
   </head>
