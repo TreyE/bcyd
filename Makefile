@@ -1,5 +1,6 @@
 website.zip: copy_constitution
-	zip -r website.zip website/*
+	cd website && zip -r ../website.zip ./*
+	rm website/BCYDConstitution.doc
 
 copy_constitution:
 	cp BCYDConstitution.doc website/
