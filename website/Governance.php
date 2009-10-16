@@ -18,7 +18,7 @@
     <dd>High School Liaison: <a href="mailto:flopper92@yahoo.com">Jason Greenberg</a></dd>
   </dl>
 <br>
-  <a href="BCYDconstitution.doc">BCYD Constitution</a>
+  <a href="BCYDConstitution.doc">BCYD Constitution</a>
 </div>
 
 <? include("bottom.php") ?>
