@@ -19,11 +19,11 @@
     }
  
     function load() {
+/*
       if (GBrowserIsCompatible()) {
         var map = new GMap2(document.getElementById("map"));
         map.setCenter(new GLatLng(39.4781565,-76.67204), 9);
         map.addControl(new GSmallMapControl());
-//        map.addControl(new GMapTypeControl());
       }
       var kml = new GGeoXml("http://www.bcyd.org/BaltimoreCounty.kml");
       map.addOverlay(kml)
@@ -35,6 +35,7 @@
       ShowEvent(map,"318 Limestone Valley Dr, Cockeysville, MD","2008-02-17 All the President's Men");
       ShowEvent(map,"55 Wade Ave, Catonsville MD","2008-01-26 Volunteering at Homeless Shelter");
       ShowEvent(map,"63 E Padonia Rd, Timonium, MD 21093","2008-02-12 Maryland Primary Closure HH");
+*/
     }
 
     // Function Creates a marker whose infowindow displays descrip, uses icon
