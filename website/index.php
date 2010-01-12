@@ -23,7 +23,7 @@
 </div>
 
 <div id="Content">
-  The 2009 BCYD executive board has four primary goals:
+  The 2010 BCYD executive board has four primary goals:
   <ul>
     <li>to build a better community for young people (under 40)</li>
     <li>to serve the larger community</li>
