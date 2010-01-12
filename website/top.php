@@ -32,5 +32,6 @@
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Context.php'">Context</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Governance.php'">Governance</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Press.php'">Press</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/BCYDConstitution.html'">Constitution</td>
         </tr></table>
       </div>
