@@ -3,7 +3,7 @@
 <div id="TitleRow">Governance</div>
 
 <div id="Content">
-  2009 Executive Board:
+  2010 Executive Board:
   <dl>
     <dd>President: <a href="mailto:lewis.r.evans@gmail.com">Trey Evans</a></dd>
     <dd>Treasurer: <a href="mailto:katefurek@gmail.com">Kate Furek</a></dd>
