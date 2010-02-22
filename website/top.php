@@ -27,7 +27,7 @@
       </div>
       <div id="MenuRow">
         <table cellpadding=0 cellspacing=0 border=0><tr>		
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/'">Join Us</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/'">Home</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Projects.php'">Projects</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Context.php'">Context</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Governance.php'">Governance</td>
