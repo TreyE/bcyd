@@ -37,10 +37,10 @@
       <div id="MenuRow">
         <table cellpadding=0 cellspacing=0 border=0><tr>		
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageHome')">Home</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageProjects.php')">Projects</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageProjects')">Projects</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageContext')">Context</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageGovernance')">Governance</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('/pagePress')">Press</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pagePress')">Press</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/BCYDConstitution.html'">Constitution</td>
         </tr></table>
       </div>
