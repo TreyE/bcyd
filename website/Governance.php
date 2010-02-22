@@ -1,4 +1,4 @@
-<div id="TitleRow">Governance</div>
+<div id="TitleRow">Officers</div>
 
 <div id="Content">
   2010 Executive Board:

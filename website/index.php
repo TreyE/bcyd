@@ -39,7 +39,7 @@
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageHome')">Home</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageProjects')">Projects</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageContext')">Context</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageGovernance')">Governance</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageGovernance')">Officers</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pagePress')">Press</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/BCYDConstitution.html'">Constitution</td>
         </tr></table>
@@ -58,6 +58,9 @@
 </div>
 <div id="pagePress" style="display:none">
 <? include("Press.php") ?>
+</div>
+<div id="ContactMethods">
+<a href="http://www.facebook.com/group.php?gid=5394043270"><img src="images/facebook.gif" alt="Find Us On Facebook" style="border-style: none;"/></a>
 </div>
 </div>
 </td></tr></table>
