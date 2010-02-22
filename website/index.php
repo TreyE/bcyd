@@ -15,6 +15,14 @@
     <link rel="stylesheet" type="text/css" href="http://bcyd.org/css/main.css" />
     <script type="text/javascript" src="http://bcyd.org/scripts/pageload.js"></script>
     <script type="text/javascript" src="http://bcyd.org/scripts/prototype.js"></script>
+    <script type="text/javascript">
+//<![CDATA[
+  function showPage(pageId) {
+    ['pageHome', 'pageProjects', 'pageContext', 'pageGovernance', 'pagePress'].each(Element.hide);
+    Element.show(pageId);
+  }
+//]]>
+    </script>
 	<!--[if lt IE 7.]>
 	<script defer="defer" type="text/javascript" src="http://bcyd.org/scripts/pngfix.js"></script>
 	<![endif]-->
@@ -28,11 +36,11 @@
       </div>
       <div id="MenuRow">
         <table cellpadding=0 cellspacing=0 border=0><tr>		
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/'">Home</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Projects.php'">Projects</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Context.php'">Context</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Governance.php'">Governance</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/Press.php'">Press</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageHome')">Home</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageProjects.php')">Projects</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageContext')">Context</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageGovernance')">Governance</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('/pagePress')">Press</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/BCYDConstitution.html'">Constitution</td>
         </tr></table>
       </div>

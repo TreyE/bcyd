@@ -1,5 +1,3 @@
-<? include("top.php") ?>
-
 <div id="TitleRow">Press</div>
 
 <div id="Content">
@@ -11,5 +9,3 @@
 	<li><a href="http://www.publicbroadcasting.net/wypr/news.newsmain?action=article&ARTICLE_ID=1224694&sectionID=1">NPR Story on BCYD Super Tuesday Watch Party</a></li>
   </ul>
 </div>
-
-<? include("bottom.php") ?>

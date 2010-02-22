@@ -1,5 +1,3 @@
-<? include("top.php") ?>
-
 <div id="TitleRow">Governance</div>
 
 <div id="Content">
@@ -16,5 +14,3 @@
     <dd>High School Liaison: <a href="mailto:flopper92@yahoo.com">Jason Greenberg</a></dd>
   </dl>
 </div>
-
-<? include("bottom.php") ?>

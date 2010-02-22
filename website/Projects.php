@@ -1,5 +1,3 @@
-<? include("top.php") ?>
-
 <div id="TitleRow">Projects</div>
 
 <div id="Content">
@@ -10,5 +8,3 @@
     <!-- Advocating for Registrion in Schools -->
   </dl>
 </div>
-
-<? include("bottom.php") ?>
