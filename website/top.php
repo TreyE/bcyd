@@ -14,6 +14,7 @@
     </style>
     <link rel="stylesheet" type="text/css" href="http://bcyd.org/css/main.css" />
     <script type="text/javascript" src="http://bcyd.org/scripts/pageload.js"></script>
+    <script type="text/javascript" src="http://bcyd.org/scripts/prototype.js"></script>
 	<!--[if lt IE 7.]>
 	<script defer="defer" type="text/javascript" src="http://bcyd.org/scripts/pngfix.js"></script>
 	<![endif]-->
