@@ -7,4 +7,4 @@ website.zip: copy_constitution
 	rm website/BCYDConstitution.html
 
 copy_constitution:
-	cp BCYDConstitution.html website/
+	cp BCYDConstitution.html website/documents/
