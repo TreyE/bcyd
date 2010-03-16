@@ -4,7 +4,7 @@ upload: website.zip
 
 website.zip: copy_constitution
 	cd website && zip -r ../website.zip ./*
-	rm website/BCYDConstitution.html
+	rm website/documents/BCYDConstitution.html
 
 copy_constitution:
 	cp BCYDConstitution.html website/documents/
