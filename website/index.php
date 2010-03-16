@@ -41,7 +41,7 @@
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageContext')">Context</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pageGovernance')">Officers</td>
           <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="showPage('pagePress')">Press</td>
-          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/BCYDConstitution.html'">Constitution</td>
+          <td onmouseover="this.style.background='#555'" onmouseout="this.style.background='#000'" onclick="document.location='/documents/BCYDConstitution.html'">Constitution</td>
         </tr></table>
       </div>
 <div id="pageHome">
