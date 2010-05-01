@@ -37,7 +37,6 @@
     document.getElementById('Subscribe').style.display='none';
   }
 </script>
-  You can subscribe to the <a href="javascript:ShowSubscribe();">mailing list</a>, join our <a href="http://www.facebook.com/group.php?gid=5394043270">Facebook group</a>, contact the BCYD officers, and come to events:
-  <br/><br/>
+<p>You can join our <a href="http://www.facebook.com/group.php?gid=5394043270">Facebook group</a>, contact the BCYD officers, and come to events:</p>
   <iframe src="//www.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vtuebr6okcnap6ojbi30kehja4%40group.calendar.google.com&amp;color=%237A367A&amp;ctz=America%2FNew_York" style="border-width:0 " width="760" height="300" frameborder="0" scrolling="no"></iframe>
 </div>
