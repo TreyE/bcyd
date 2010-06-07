@@ -1,6 +1,6 @@
-<div id="TitleRow">Officers</div>
+<div class="TitleRow">Officers</div>
 
-<div id="Content">
+<div class="Content">
   2010 Executive Board:
   <dl>
     <dd>President: <a href="mailto:lewis.r.evans@gmail.com">Trey Evans</a></dd>

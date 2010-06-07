@@ -1,6 +1,6 @@
-<div id="TitleRow">Press</div>
+<div class="TitleRow">Press</div>
 
-<div id="Content">
+<div class="Content">
   BCYD in the News:
   <ul>
 	<li><a href="http://www.politickermd.com/kevinagnese/1988/kratovil-says-harris-would-be-one-most-conservative-people-congress">Politicker on Kratovil BCYD Meeting</a></li>

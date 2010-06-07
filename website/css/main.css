@@ -36,13 +36,13 @@
         padding-left: 15px;
         padding-right: 15px;
       }
-      #TitleRow {
+      .TitleRow {
         text-align: left;
         padding: 10px;
         padding-left: 130px;
         font-size: 30px;
       }
-      #Content {
+      .Content {
         text-align: left;
         padding: 10px;
       }
